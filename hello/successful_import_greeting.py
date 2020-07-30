@@ -1,0 +1,2 @@
+from hello import message_bus_broker
+message_bus_broker.hello_world()
